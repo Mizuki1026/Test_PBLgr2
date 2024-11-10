@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+
+body {
+    display: flex;
+}
+
+.parent{
+    width: 50%;
+    background-color: orange;
+}
+
+.contents{
+    background-color: skyblue;
+}
+/* 
+.sun {
+    display: flex;
+} */
